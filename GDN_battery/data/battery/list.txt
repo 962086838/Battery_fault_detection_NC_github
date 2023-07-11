@@ -1,0 +1,6 @@
+volt
+current
+soc
+max_single_volt
+min_single_volt
+max_temp

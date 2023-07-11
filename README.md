@@ -158,13 +158,10 @@ One should also modify the path of the saved reconstruction error
 if one is using different brands. 
 
 # Data availability
-The three datasets are available at links below
-
-1. (Dahu) https://1drv.ms/u/s!AuclUYFIEUmAgQkdGuT054nm0SDv?e=3t7Pbi
-
-2. (Socea) https://1drv.ms/u/s!AuclUYFIEUmAgQeAzzVcZdfLy-KF?e=zPTJSf
-
-3. (Naobop) https://1drv.ms/u/s!AuclUYFIEUmAgQjk8G_PQmNIhOUf?e=vdCeDU
+The datasets are available at links below
+https://1drv.ms/u/s!AiSrJIRVqlQAgcjKGKV0fZmw5ifDd8Y?e=CnzELH237
+or
+https://disk.pku.edu.cn:443/link/37D733DF405D8D7998B8F57E4487515A238.
 
 # Code Reference
 We use partial code from 

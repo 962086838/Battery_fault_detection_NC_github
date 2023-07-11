@@ -1,3 +1,6 @@
+This is the official code repository for our Nature Communication paper entitled
+"Realistic fault detection of Li-ion battery via dynamical deep learning approach"
+
 # Environment requirement
 We recommend using the conda environment.
 ```
@@ -153,6 +156,15 @@ represents the calculation of robust fault scores, and the suffix
 to change the path information in each jupyter notebook.
 One should also modify the path of the saved reconstruction error
 if one is using different brands. 
+
+# Data availability
+The three datasets are available at links below
+
+1. (Dahu) https://1drv.ms/u/s!AuclUYFIEUmAgQkdGuT054nm0SDv?e=3t7Pbi
+
+2. (Socea) https://1drv.ms/u/s!AuclUYFIEUmAgQeAzzVcZdfLy-KF?e=zPTJSf
+
+3. (Naobop) https://1drv.ms/u/s!AuclUYFIEUmAgQjk8G_PQmNIhOUf?e=vdCeDU
 
 # Code Reference
 We use partial code from 

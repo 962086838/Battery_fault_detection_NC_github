@@ -18,6 +18,7 @@ pip install --no-index torch-cluster -f https://pytorch-geometric.com/whl/torch-
 pip install --no-index torch-spline-conv -f https://pytorch-geometric.com/whl/torch-1.5.0+cu102.html
 pip install torch-geometric==1.5.0
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirement.txt
+pip install tensorflow==2.6.2
 ```
 # Dataset preparation
 ## Download
